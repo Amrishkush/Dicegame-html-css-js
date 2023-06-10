@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(171, 167, 167);
+}
+h1{
+    font-size: 4rem;
+    text-align: center;
+    margin: 0.6rem;
+    color:rgb(38, 40, 39);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    text-align: center;
+    color:rgb(74, 97, 73);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button {
+	background-color:#e28d1f;
+	border-radius:11px;
+	border:2px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:10px 58px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cc9f52;
+}
+button:hover {
+	
+	background-color:#fb9e25;
+}
+.master{
+    margin: auto;
+    text-align: center;
+}
+.player{
+    display: inline-block;
+    text-align: center;
+    margin: 2rem;
+}
+footer {
+    color: #262728;
+    font-family: sans-serif;
+    background-color: rgb(219, 224, 223);
+  }
+   footer h1{
+    font-size: 200%;
+    color: #333535;
+    padding-top: 30px;
+   }
+  .linkedin{
+    height: 32px;
+    width: 32px;
+    position: relative;
+    right:10px;
+    bottom: 10px;
+  }
+  
+  .github{
+    height: 50px;
+    width: 50px;
+  }
+  .secondChild{
+    background-color: rgb(44, 44, 44);
+    margin: 30px auto auto auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+  }
+  
+  span{
+    font-weight: bolder;
+  }
